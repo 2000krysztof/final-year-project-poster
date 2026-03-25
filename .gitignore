@@ -6,9 +6,6 @@ node_modules/
 .env.local
 .env.*.local
 
-# Vite build output
-dist/
-docs/   # if you’re using docs folder for GitHub Pages
 
 # Logs
 npm-debug.log*
